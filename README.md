@@ -32,10 +32,11 @@ DDD and SOA could be architectural processes that could help you here, if they'r
 PDD is a way of developing software within a "product driven organisation".  
 It demands from you to:  
 
- 1. Take part in an effort to move your organisation to become product driven.
- 2. Get a better understanding of the strategy of the organisation and the goals you're trying to achieve.
- 3. Challenge decisions taken by your colleagues on the direction of the product and the features you've been asked to deliver. Especially if no arguments have been provided as to why are we building what we're building.
- 4. Re-contextualise the tools, technologies and processes your using, so that they are used to achieve a specific goal the company is aiming to achieve. For example, the DDD-crew has published a [starter modelling process](https://github.com/ddd-crew/ddd-starter-modelling-process) summary, containing different tools and best practices that could put you in the right direction, if you need more help. Another great source I could recommend is [Udi Dahan's Advanced Distributed Systems Design course](https://particular.net/adsd) that approaches the issue clearly from a product perspective.  
+ 1. Think about what kind of data can be crucial the organisation and whether you store it anywhere or not; discuss this with a project manager, work closely with them together on this, since the right data can help you address the real issues the organisation faces. If there's one thing you can do on your own to try and move things it's this.
+ 2. Take part in an effort to move your organisation to become product driven.
+ 3. Get a better understanding of the strategy of the organisation and the goals you're trying to achieve.
+ 4. Challenge decisions taken by your colleagues on the direction of the product and the features you've been asked to deliver. Especially if no arguments have been provided as to why are we building what we're building.
+ 5. Re-contextualise the tools, technologies and processes your using, so that they are used to achieve a specific goal the company is aiming to achieve. For example, the DDD-crew has published a [starter modelling process](https://github.com/ddd-crew/ddd-starter-modelling-process) summary, containing different tools and best practices that could put you in the right direction, if you need more help. Another great source I could recommend is [Udi Dahan's Advanced Distributed Systems Design course](https://particular.net/adsd) that approaches the issue clearly from a product perspective.  
 
 ### Pull Requests
 This is a work in progress. If you have anything to add or question or any constructive criticism to give, feel free to open an issue or a pull request.
